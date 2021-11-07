@@ -1,5 +1,7 @@
 # Python-Project
 Python Operations
+
+**Please select which operation you want to perform**
 1. Uppercase Letter
 2. Lowercase Letter
 3. First letter Capital and Other Small
